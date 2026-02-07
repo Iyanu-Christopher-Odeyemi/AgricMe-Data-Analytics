@@ -3,7 +3,7 @@
 ## Project Overview
 This project demonstrates the use of Microsoft Excel to analyze employee attrition and present insights through an interactive dashboard. The focus is on identifying attrition patterns across key employee attributes to support HR decision-making.
 
-[check out my work](HRDATA_Excel.xlsx)
+[check out my work](AgricMe-Data-Analytics)
 
 ---
 ## Problem Statement
